@@ -1,0 +1,14 @@
+{
+    "prestamos": [
+      {
+        "nombre": "Préstamo 1",
+        "monto": 25000,
+        "cuotas": 18
+      },      
+      {
+        "nombre": "Préstamo 2",
+        "monto": 30000,
+        "cuotas": 30
+      }
+    ]
+  }
